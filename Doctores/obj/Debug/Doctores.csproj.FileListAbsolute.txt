@@ -1,0 +1,9 @@
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\bin\Debug\Doctores.exe.config
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\bin\Debug\Doctores.exe
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\bin\Debug\Doctores.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\obj\Debug\Doctores.Form1.resources
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\obj\Debug\Doctores.Properties.Resources.resources
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\obj\Debug\Doctores.csproj.GenerateResource.cache
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\obj\Debug\Doctores.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\obj\Debug\Doctores.exe
+D:\Universidad\Programacion 4\ProyectoFinal\Doctores\obj\Debug\Doctores.pdb

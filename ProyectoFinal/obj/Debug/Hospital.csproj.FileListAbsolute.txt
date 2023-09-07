@@ -1,0 +1,10 @@
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources

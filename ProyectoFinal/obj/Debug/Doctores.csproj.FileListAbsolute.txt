@@ -1,0 +1,17 @@
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Doctores.csproj.GenerateResource.cache
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Doctores.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Doctor.resources
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Doctores.csproj.AssemblyReference.cache
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\Doctores.exe
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\Pacientes.exe
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\Doctores.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\Doctores.exe.config
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\Pacientes.pdb
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\bin\Debug\Pacientes.exe.config
+D:\Universidad\Programacion 4\ProyectoFinal\ProyectoFinal\obj\Debug\Doctores.csproj.CopyComplete
